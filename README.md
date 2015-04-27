@@ -1,4 +1,4 @@
-FractalSounds
+Fractal
 =============
 
-Visualize music with fractals!!!
+Fractals!!!
